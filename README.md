@@ -19,7 +19,7 @@ Relationship platform. I founded the company and architected and shipped the And
 
 Owned the full lifecycle: architecture, store submission and review resolution, subscription monetization with RevenueCat, and coordination across a six-person team spanning engineering, product, and growth.
 
-*Play Store:* [Play Store](https://play.google.com/store/apps/details?id=com.blackspade.Validate&pcampaignid=web_share)
+*Validate Play Store Link:* [Play Store](https://play.google.com/store/apps/details?id=com.blackspade.Validate&pcampaignid=web_share)
 
 ---
 
