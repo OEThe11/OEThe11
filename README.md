@@ -37,6 +37,8 @@ Across both: 40% improvement in app performance, 20% reduction in user-reported 
 ### Subscout — in development
 Personal finance companion app. Kotlin and Jetpack Compose, MVVM with Clean Architecture, Hilt for dependency injection, Plaid for bank connectivity, RevenueCat for billing. Currently building an AI-driven recommendation engine that surfaces which subscriptions to keep and which to cut.
 
+**[Read the Evaluation Writeup →](https://github.com/OEThe11/subscout-evaluation)** — how I built the test set, measured recommendation quality, and what I found. Baseline 53.8% to 73.1% across three iterations, including one change that made things worse and got reverted. — how I built the test set, measured recommendation quality, and what I found. Baseline 53.8% to 73.1% across three iterations, including one change that made things worse and got reverted.
+
 ---
 
 ### How I work
